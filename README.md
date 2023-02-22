@@ -17,7 +17,7 @@ good responsive website with screens and dimensions.
 
 <img alt="GIF" src="preview/demo_2.gif" width= "600" /> 
 
-### The design is based on
+### The design is based on:
 https://www.youtube.com/watch?v=daaGNK8mEmM
 
 <br>
